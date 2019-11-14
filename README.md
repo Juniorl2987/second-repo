@@ -1,1 +1,1 @@
-this is my second repo
+I read the directions, this is my second repo.
